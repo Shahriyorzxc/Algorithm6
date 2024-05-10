@@ -30,16 +30,14 @@
 
 #3
 #1 Yoli
-# def resistance(resistances):
-#     total_resistance = 0
-#     for resistance in resistances:
-#         total_resistance += resistance
-#     return f"{total_resistance} Om"
+# def om(akhj):
+#     gfdj = sum(akhj)
+#     return f"{gfdj} Om"
 #
 #
-# print(resistance([1, 5, 6, 3]))
-# print(resistance([16, 3.5, 6]))
-# print(resistance([0.5, 0.5]))
+# print(om([1, 5, 6, 3]))
+# print(om([16, 3.5, 6]))
+# print(om([0.5, 0.5]))
 
 #2 Yoli
 # def numbers(lst):
